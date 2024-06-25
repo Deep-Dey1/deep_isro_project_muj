@@ -1,6 +1,9 @@
 # I mainly used Jupyter Notebook to execute this code.
 # I have provided comments before every block of code if you want to use jupyter notebook too.
 
+# dataset url : https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD
+# you all must download these 4 csv files as dataset and then save them to the working directory to train the model.
+
 # block 1 
 
 import numpy as np
